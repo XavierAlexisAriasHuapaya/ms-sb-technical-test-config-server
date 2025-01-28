@@ -1,0 +1,4 @@
+db:
+  url: jdbc:mysql://localhost:3306/db-ms-financial
+  username: usr_financial
+  password: 785pOOln64J0XGTagcog
