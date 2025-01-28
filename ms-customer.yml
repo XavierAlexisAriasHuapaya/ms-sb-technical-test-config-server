@@ -1,0 +1,4 @@
+db:
+  url: jdbc:postgresql://localhost:5432/db-ms-customer
+  username: usr_customer
+  password: qk07Pv2x6Zy077xUzAT5
