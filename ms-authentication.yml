@@ -1,4 +1,4 @@
 db:
-  url: jdbc:mysql://container-mysql-auth:3305/db-ms-authentication-2025
-  username: usr-ms-authentication
-  password: 2F7ud3TBl7wt4K3uIsii
+  url: jdbc:postgresql://container-postgres-auth:5431/db-ms-financial
+  username: usr_financial
+  password: 9layn2gSHOjM1NX9qAN9
