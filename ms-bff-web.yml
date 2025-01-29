@@ -1,2 +1,2 @@
 fallback:
-  uri: "http://localhost:8787/fallback/fallback"
+  uri: "http://ms-fallback:8787/fallback/fallback"
