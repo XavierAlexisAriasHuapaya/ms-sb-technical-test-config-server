@@ -1,4 +1,4 @@
 db:
-  url: jdbc:mysql://localhost:3306/db-ms-financial
+  url: jdbc:postgresql://container-postgres-financial:5431/db-ms-financial
   username: usr_financial
-  password: 785pOOln64J0XGTagcog
+  password: 9layn2gSHOjM1NX9qAN9
